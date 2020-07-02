@@ -1,0 +1,2 @@
+# SpringCloudConfiguration
+Server di configurazione
